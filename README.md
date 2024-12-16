@@ -21,6 +21,8 @@ Handling big data solutions and real-time analytics requires robust tools and we
 This project enhances the ability of data engineers to handle large-scale data efficiently, showcasing the synergy between Azure's data tools while providing practical insights into real-world use cases.
 
 ---
+<img src='/images/AdventureWorks.png'>
+
 
 # Summary
 
